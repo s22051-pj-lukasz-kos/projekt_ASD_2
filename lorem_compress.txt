@@ -1,0 +1,51 @@
+
+: 00100110
+ : 101
+,: 011011
+.: 100111
+A: 001001001
+C: 010101110
+D: 011010101
+E: 0101011111
+F: 01010111101
+I: 00100101
+L: 01010111100
+M: 010101000
+N: 01010110
+P: 00100111
+Q: 0010010000
+S: 01010101
+V: 0010010001
+a: 1000
+b: 001000
+c: 01011
+d: 100110
+e: 1110
+f: 0110100
+g: 011000
+h: 01101011
+i: 000
+j: 011010100
+l: 11111
+m: 11110
+n: 0011
+o: 10010
+p: 00101
+q: 010100
+r: 0100
+s: 0111
+t: 1100
+u: 1101
+v: 011001
+x: 010101001
+
+
+W’Nõ}õš_’WcÝÕÈß—š–&°l^øÉëVGË¥Ô×§¦¶ëë¬eg¿K¿d%g¾Ý#ðs±féé'áMXÊÌ ×¾ÖFG_F`z|¦ôõW¦¬÷ï£0=0C[tæ9òä“$“Òt;¿üyrBòV¬ÊÎü»‘=VÓ]>]g¾2Ì›æïõy¯^
+8ïkt©Ø7ÕžøÉê¯MZr{7Õ©¯’ ìÐPF½Îñd“ÕDrøáîwÿ¯K©®ÝgšÂ÷ñNGOMw˜ìn–I‘W¨ú÷’O=Wºëë­‚5î¡Äõ«#å×cÝ”Ã‹4¿$žª#P=yác6`u§k2˜ÞË¼’OUüëè`â¿y»ù$ÀôM{ã(6êõ^–I‘}ñ=%<æ9/õy¯e0•ôŸbhnö‡ô¦¾ì×°Ýd3È‘sP¡ç&&'HçãËÚÒš©±ê&§¦º›‰¾nƒ­#V× ¯¾¿Õæ¼õ[MtùMëðÆþ¥’f’Pu§|=q–=ØÝiÉî<ßTÜMõ0ÿž«µ š—²Ÿ)½W#~Sc+S_%]}þ@êoXZ÷ÏyŽÊÈÈëè`âz«Ó\±6ž7|+=úY&`É%a!‘47fëš…W¨ú÷5
+ºr:Y&`É%0C]ƒÎ±f—ä“ÕrCÙ‚ó}W#cz¼qÓ‘ÖwåÜŒéê¶ÿñê³ÇÇŸ)½=VÓ]dduçËžøË
+oe/á|‘“Õhõ˜0aÜzžÿñyŽËÚÒš£\zóÕhõ,“"ú3ßC×cÝ”rM¾¿rJ—¿þ<çSzÆOUüëÌv^øÊ½G×n´ä÷o¬k×˜ìnïÿ\¼—Ñ¨zÕ‘òï»5ïázíÜ@øÞ°»’L’]ÆëNÖe\½éM+ß912¶šéd™Ó5Ñ5 Ç6ú®FÌáÛ°‹Ûèw‹éŸ^HÆêš³5î¡Åôj§Ë¼©ž«µ š•‘‘×•5ÆX÷eôj¿Õæ½iÉî<ßOINú_çÁÕùw#:³ßÝSCÖxøãÞ|­;X—¶z«ÓVy¬/ÐWß^Ë¼’_Ä“»¾†*×¯Þ/%ø#’M×cÝ•˜A¯xÇ¯…Ü²˜JzJur7å62üÉ+y#*åïJiWï’zH†cÚö`Á‡qëßa­×cÝ•r7åçf¥}õf_Ü,eSCÏUÚ@ÍJr:aÅF¹õÛ»ü@¾{’L’PmÜ±6ž_F yé;\?ú÷ð°b/£P=q–=Ù}ñZ 6ÿ˜çÈyé)Ö{ô÷Õ˜A®Ý\ùyÙ©aµÆX÷cw¿Á§Ôô×=TF {¿üyrBòW‚Ž;Pâ•®±!ºâÀ¦õ.¦½Îñd“Õ^š—S^ú5·Zv°#,Sßþ+@`vè…ïÃ×ï’êOIÒ@ë@`vëS_%{n |
+oRso›³KòKîÍzÑ°?ø¦7b³Ía{ø¾ûÕ‘‘Ö{=%;Ìv_È‰&°yÓ“Mê›‰¾¼ù{+@`zÎü»‘='I­‚5ïÃø¾@íÞÛèTkÞøËø’weSCÏUB~š–I‘u'¤§wøcžïñÇ=+\'bDô‘çÀFÿ}K¿d%a!‘4VDõ_Á¬ïË¹×Ð©×¦UÈæãÍõÄMéé'áM^HÊÌ¿¸XÉé)ç1É\evVeýÂÆRêkÏI?
+lzÂëÊhÿ=ScÓÒS¿…ëß†7ðÝš
+× êõ^©¡Û¯À÷rû³^zÕ‘òë;òîFu0C]>]˜0aÜzÇÂ›Ù='ïÿ9ÔÞ¿‘LXHdM©Ø7Ó“*ë—Ž`ïÔ²Î<ÕhõÎñd–`Á‡qê
+ûêã,{²ÇÂ›ž«i®–I‘Zšù+¹K$Ì$¬ïË¹ÓÕ^šÆ±½}Û³æú²2:‘ø9†^c±º!{ðôäwÐÁÄô“ð¦Ç¯úW;ÿ×nÌ0î=w/$ž©¡Û¯À÷ñ$îËÿëÏZ²>]Tk‘¯^´ï‡nÂìÐPF½@úóÒv¸~ÿõêõ^¼qØ¯už|o÷Õz¯=U×/Áß«HXøpõ©¯’»—ÒÿÃØøScÓÖ¬—O—}_É;ÓÕ^šö‡ô¦¼ÇeäŒ¢k
+odõ\ô¿…òF\@øÞ¼©ž“¤sñåÜ³;XEì
