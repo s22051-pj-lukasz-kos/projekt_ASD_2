@@ -1,5 +1,3 @@
-# readme
-
 # Kody Huffmana
 
 Drugi projekt na zaliczenie Algorytmów i struktur danych (ASD) na 4 semestrze PJATK w Gdańsku. 
